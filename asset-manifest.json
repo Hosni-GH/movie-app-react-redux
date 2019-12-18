@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/.github.iomovie-app-react-redux/static/css/main.3ba39aa0.chunk.css",
+    "main.js": "/.github.iomovie-app-react-redux/static/js/main.36f91d6f.chunk.js",
+    "main.js.map": "/.github.iomovie-app-react-redux/static/js/main.36f91d6f.chunk.js.map",
+    "runtime-main.js": "/.github.iomovie-app-react-redux/static/js/runtime-main.c44d5726.js",
+    "runtime-main.js.map": "/.github.iomovie-app-react-redux/static/js/runtime-main.c44d5726.js.map",
+    "static/js/2.e4ce1e8e.chunk.js": "/.github.iomovie-app-react-redux/static/js/2.e4ce1e8e.chunk.js",
+    "static/js/2.e4ce1e8e.chunk.js.map": "/.github.iomovie-app-react-redux/static/js/2.e4ce1e8e.chunk.js.map",
+    "index.html": "/.github.iomovie-app-react-redux/index.html",
+    "precache-manifest.b6d7d7aefd6ecf68f719ed158c16479b.js": "/.github.iomovie-app-react-redux/precache-manifest.b6d7d7aefd6ecf68f719ed158c16479b.js",
+    "service-worker.js": "/.github.iomovie-app-react-redux/service-worker.js",
+    "static/css/main.3ba39aa0.chunk.css.map": "/.github.iomovie-app-react-redux/static/css/main.3ba39aa0.chunk.css.map",
+    "static/js/2.e4ce1e8e.chunk.js.LICENSE": "/.github.iomovie-app-react-redux/static/js/2.e4ce1e8e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c44d5726.js",
+    "static/js/2.e4ce1e8e.chunk.js",
+    "static/css/main.3ba39aa0.chunk.css",
+    "static/js/main.36f91d6f.chunk.js"
+  ]
+}
